@@ -1,0 +1,107 @@
+# Build directories
+bin/
+build/
+dist/
+out/
+target/
+Debug/
+Release/
+x64/
+x86/
+
+# Dependencies
+node_modules/
+vendor/
+.packages/
+packages/
+.deps/
+deps/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.hi
+*.class
+*.jar
+*.pyc
+*.pyo
+*.pyd
+*.rds
+*.RData
+
+# IDE and editor files
+.vs/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# Language specific
+# Haskell
+dist-*
+cabal-dev
+*.chi
+*.hie
+*.chs.h
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+ENV/
+
+# JavaScript/TypeScript
+.npm
+.yarn
+*.tsbuildinfo
+.next
+.nuxt
+
+# Rust
+Cargo.lock
+**/*.rs.bk
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Office temp files
+~$*
+*.tmp
+*.temp
+*.bak
+.~lock.*
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.iso
+*.img
+*.log
+*.db
+*.sqlite
+
+# Misc
+.env*
+.cache/
+coverage/
+*.pid
+*.seed
+*.pid.lock
