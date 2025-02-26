@@ -1,3 +1,4 @@
+
 function GCD(a::Integer, b::Integer)::Integer
     if b == 0
         return a 

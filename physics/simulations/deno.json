@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@dimforge/rapier2d": "npm:@dimforge/rapier2d@^0.14.0",
+    "@std/assert": "jsr:@std/assert@1",
+    "p5js": "npm:p5js@^1.2.18",
+    "preact": "npm:preact@^10.26.2"
+  }
+}
